@@ -1,4 +1,4 @@
-// Queue Implementation Using Array
+//Queue Implementation Using Array
 #include<stdio.h>
 #include<stdlib.h>
 #define SIZE 10
