@@ -19,7 +19,7 @@ void enqueue(int value){
         rear++;
         queue[rear]= value;
     }
-}
+} 
 
 void dequeue(){
     if(front == -1)
